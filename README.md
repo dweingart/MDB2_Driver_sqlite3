@@ -1,20 +1,19 @@
 MDB2_Driver_sqlite3
 ===================
 
-This is an MDB2 Driver for SQLite3.
+This is an MDB2 Driver for SQLite 3.
 
-The SQLite driver available from PEAR only works with obsolete SQLite 2 databases. This 
-driver works with SQLite3 databases.
+The MDB2 SQLite driver available from PEAR only works with obsolete SQLite 2 databases. This 
+driver provides support for SQLite 3 databases.
 
-This is not my work. It was written by the [ownCloud](http://owncloud.org/) team and used 
-up until version 5. 
+It is not my work. It was written by the [ownCloud](http://owncloud.org/) team and used 
+through version 5. All I've done is move the files to a single repository for the sake 
+of convenience.
 
-ownCloud no longer uses MDB2 in current releases. The version of the files here are from 
-here: https://github.com/owncloud/core/tree/v5.0.13/lib/MDB2
+ownCloud no longer uses MDB2 in current releases. These files are copied from here: 
+<https://github.com/owncloud/core/tree/v5.0.13/lib/MDB2>
 
-All I've done is to move the files to a single repository for the sake of convenience.
-
-License is the original license used by ownCloud: GNU Affero GPL.
+License is the original license used by ownCloud: AGPL Version 3.
 
 ### Installation Using Composer
 
