@@ -1,0 +1,32 @@
+{
+    "authors": [
+        {
+            "name": "Robin Appelman",
+            "homepage": "http://owncloud.org/user/?user=icewind"
+            "role": "Lead"
+        },
+        {
+            "name": "Frank Karlitschek",
+            "homepage": "http://owncloud.org/user/?user=frank"
+            "role": "Developer"
+        },        
+    ],
+    "autoload": {
+        "psr-0": {
+            "MBD2": "./"
+        }
+    },
+    "description": "SQLite 3 Driver for MDB2",
+    "include-path": [
+        "./"
+    ],
+    "license": "AGPL-3.0",
+    "name": "pear/mdb2_driver_sqlite3",
+    "support": {
+        "source": "https://github.com/dweingart/MDB2_Driver_sqlite3"
+    },
+    "type": "library",
+    "require": {
+        "pear/mdb2": "*"
+    }
+}
