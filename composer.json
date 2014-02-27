@@ -2,12 +2,12 @@
     "authors": [
         {
             "name": "Robin Appelman",
-            "homepage": "http://owncloud.org/user/?user=icewind"
+            "homepage": "http://owncloud.org/user/?user=icewind",
             "role": "Lead"
         },
         {
             "name": "Frank Karlitschek",
-            "homepage": "http://owncloud.org/user/?user=frank"
+            "homepage": "http://owncloud.org/user/?user=frank",
             "role": "Developer"
         },        
     ],
