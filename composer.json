@@ -9,7 +9,7 @@
             "name": "Frank Karlitschek",
             "homepage": "http://owncloud.org/user/?user=frank",
             "role": "Developer"
-        },        
+        }
     ],
     "autoload": {
         "psr-0": {
